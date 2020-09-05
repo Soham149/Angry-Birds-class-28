@@ -1,2 +1,2 @@
-# Angry-Birds-class-28
-We have used the logic of the slingshot.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
